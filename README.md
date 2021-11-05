@@ -1,2 +1,2 @@
 # Hello-World
-Toto je můj první repozitář, tvořím ho v druhém ročníku v ŠSPA 1. Kšpa Litoměřice
+This is my first repository, I create it in the 2nd year in ŠSPA 1. Kšpa Litoměřice
